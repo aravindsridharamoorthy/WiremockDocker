@@ -1,0 +1,14 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/api/updateResponse"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "updateResponse.json",
+        "headers": {
+            "Content-Type": "application/json"
+        }
+
+    }
+}
